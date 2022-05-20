@@ -1,7 +1,7 @@
 # Full_Stack_open_2022
 
 Part 3 have own repo here
-https://github.com/JIMH1/Full_Stack_open_2022_Part3
+https://github.com/JIMH1/fullstack_part3
 
 3.1: Phonebook backend step1
 
